@@ -28,7 +28,7 @@
 URL : http://base_url/api/observation/{stationId}
 example inputs for *{stationId}*
 * Adelaide Airport: **94672**
-* Edinurgh: **95676**
+* Edinburgh: **95676**
 * Hindmarsh Island: **94677**
 * Kuitpo: **94683**
 
