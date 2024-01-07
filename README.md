@@ -13,8 +13,8 @@
 
 # Bom.Observations.WebApi
 
->The ObservationController exposes an endpoint at http://base_url/api/observation/95676, leveraging the **'stationId'** parameter to retrieve specific station observation data. This API supports query parameters ('datapoints'),
-> enabling users to request particular data points within the response. For instance, upon accessing http://base_url/api/observation/95676?datapoints=temp&datapoints=dewpoint,
+>The ObservationController exposes an endpoint at [http://base_url/api/observation/95676], leveraging the **'stationId'** parameter to retrieve specific station observation data. This API supports query parameters ('datapoints'),
+> enabling users to request particular data points within the response. For instance, upon accessing [http://base_url/api/observation/95676?datapoints=temp&datapoints=dewpoint],
 > the response will precisely include temperature and dewpoint data as per the queried data points.
 
 >To provide clarity in various scenarios, the API utilizes distinct status codes.
@@ -34,7 +34,7 @@ example inputs for *{stationId}*
 
 output: <img width="396" alt="image" src="https://github.com/swetha1002c/CodingChallenge/assets/155873478/10d5b81c-cfb9-44bc-b3f5-6c0b104419ca">
 
-Query params to request specific piece of weather observation data http://base_url/api/observation/95676?*datapoints=temp&datapoints=dewpoint*
+Query params to request specific piece of weather observation data [http://base_url/api/observation/95676?*datapoints=temp&datapoints=dewpoint*]
 
 | Data Point  | Equilaent header |
 | ------------- | ------------- |
