@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Bom.Observations.Common/bin/Debug/net8.0
+/Bom.Observations.Common/obj
+/Bom.Observations.Console/bin/Debug/net8.0
+/Bom.Observations.Console/obj
+/Bom.Observations.WebApi/bin/Debug/net8.0
+/Bom.Observations.WebApi/obj

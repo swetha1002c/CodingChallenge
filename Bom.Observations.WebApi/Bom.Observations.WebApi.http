@@ -1,0 +1,6 @@
+@Bom.Observations.WebApi_HostAddress = http://localhost:5089
+
+GET {{Bom.Observations.WebApi_HostAddress}}/api/observation/94672
+Accept: application/json
+
+###
